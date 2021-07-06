@@ -7,6 +7,8 @@ int main()
 	printf("HelloWorld\n");
 	kinoshita my;
 	my.ShowName();
+	my. ShowName();
+
 	system("pause");
 		
 	return 0;
