@@ -21,9 +21,15 @@
     <ClCompile Include="An.cpp">
       <Filter>リソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="kinoshita.cpp">
+      <Filter>リソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="An.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="kinoshita.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
