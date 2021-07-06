@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "kinoshita.h"
+#include "An.h"
 
 int main()
 {
@@ -8,6 +9,9 @@ int main()
 	kinoshita my;
 	my.ShowName();
 	my. ShowName();
+
+	An myan;
+	myan.ShowName();
 
 	system("pause");
 		
