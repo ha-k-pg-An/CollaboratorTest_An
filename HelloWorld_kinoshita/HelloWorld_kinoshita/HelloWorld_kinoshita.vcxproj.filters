@@ -19,10 +19,10 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="kinoshita.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>リソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="An.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>リソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
